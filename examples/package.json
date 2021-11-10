@@ -7,8 +7,8 @@
     "colors": "~1.3.0",
     "connect-restreamer": "~1.0.0",
     "request": "~2.88.0",
-    "socket.io": "~0.9.16",
-    "socket.io-client": "~0.9.16",
+    "socket.io": "~1.0.1",
+    "socket.io-client": "~1.0.1",
     "sse": "0.0.8"
   }
 }
